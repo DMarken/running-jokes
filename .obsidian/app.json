@@ -1,0 +1,16 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "scripts",
+  "attachmentFolderPath": "attachments",
+  "useMarkdownLinks": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "defaultViewMode": "source",
+  "livePreview": true
+}

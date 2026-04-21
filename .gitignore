@@ -6,3 +6,9 @@ Thumbs.db
 .idea/
 node_modules/
 *.log
+
+# Obsidian user-specific files (the rest of .obsidian/ is committed and shared)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
