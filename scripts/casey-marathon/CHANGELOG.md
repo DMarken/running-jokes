@@ -31,7 +31,7 @@ Fair. v1 was crafted but not actually funny. Full diagnosis and pivot in `STRATE
 | CAPTION-COPY.md | did not exist | new |
 | CHANGELOG.md | did not exist | new (this file) |
 
-v1 drafts preserved in `archive/v1/` for reference.
+v1 drafts deleted (available in git history at commit 2d06bc9 if ever needed).
 
 ---
 
@@ -39,4 +39,4 @@ v1 drafts preserved in `archive/v1/` for reference.
 
 Initial drafts. Three options: admission video solo monologue, short loop, committee skit. All deadpan-observational register. One Legally Blonde anchor ("What, like it's hard?"). Soft CTA.
 
-Replaced same day. Preserved in `archive/v1/`.
+Replaced same day. Files deleted. Available in git history at commit 2d06bc9 if ever needed.

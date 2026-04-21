@@ -17,7 +17,6 @@ Each project gets its own folder under `scripts/`. Inside a project folder you'l
 - **`STRATEGIC-FRAMING.md`** — the "why this angle works" writeup for the project
 - **`CALIBRATION.md`** — the things only the performer can decide (times, comfort level on personal reveals, wardrobe, cast)
 - **`CAPTION-COPY.md`** — the post text that wraps the video (captions, share prompts, hashtags, DM templates)
-- **`archive/`** — previous rounds of drafts, preserved for reference
 
 Everyone can edit everything. This is a collaborative playground, not a hierarchy.
 
@@ -59,7 +58,7 @@ All three land on the same button. All three are Legally Blonde mockumentaries. 
 
 Short version: v1 was craft-competent but not actually funny. It used Daniel's observational deadpan voice, which is built for pattern-naming, not first-person fundraising. v2 uses affiliative + self-enhancing humor, stacks five Legally Blonde anchors (not one), and includes a hard CTA with dollar tiers instead of "link in bio."
 
-Full diagnosis in [`STRATEGIC-FRAMING.md`](scripts/casey-marathon/STRATEGIC-FRAMING.md). v1 preserved in [`scripts/casey-marathon/archive/v1/`](scripts/casey-marathon/archive/v1/).
+Full diagnosis in [`STRATEGIC-FRAMING.md`](scripts/casey-marathon/STRATEGIC-FRAMING.md). v1 is available in git history if ever needed.
 
 ### The fundraiser
 
