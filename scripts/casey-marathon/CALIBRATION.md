@@ -6,11 +6,11 @@ These are the variables that depend on Casey's actual life, comfort level, and s
 
 | Variable | Current placeholder | Your real value |
 |---|---|---|
-| Anticipated finish time | "four hours and twenty-two minutes" | ___ hours ___ minutes |
-| Typical training pace | "ten-minute mile" | ___ -minute mile |
-| Number of running shoes you actually own | "six pairs" | ___ |
-| Marathon date | "November 1st" | ___ (confirm the 2026 NYC Marathon date) |
-| Years since treatment | "Six years ago" | ___ (your fundraiser page says "Nearly 6" — your call) |
+| Anticipated finish time | "four hours and twenty-two minutes" | 4 hours 15 minutes |
+| Typical training pace | "ten-minute mile" | 10-minute mile |
+| Number of running shoes you actually own | "six pairs" | 4 |
+| Marathon date | "November 1st" | 11/01/2026 (confirm the 2026 NYC Marathon date) |
+| Years since treatment | "Six years ago" | 6 |
 
 ## Comfort level on the reveal
 
